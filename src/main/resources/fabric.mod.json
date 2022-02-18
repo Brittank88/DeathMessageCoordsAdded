@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "dmca",
+  "version": "${version}",
+  "name": "DMCA",
+  "description": "Patches the death message to include the coordinates of the death. Originally authored for TheJosiahTurner!",
+  "authors": ["Brittank88"],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/dmca/icon.png",
+  "environment": "*",
+  "entrypoints": { "main": ["com.brittank88.dmca.DMCA"] },
+  "mixins": ["DMCA.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.13.1",
+    "fabric": "*",
+    "minecraft": "1.18.1"
+  }
+}
