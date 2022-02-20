@@ -5,6 +5,8 @@
 </h1>
 <span>
     <img alt = "License Badge" src = "https://img.shields.io/github/license/Brittank88/DeathMessageCoordsAdded?style=flat-square" />
+    &nbsp; <img alt = "Server-Side Only" src = "https://img.shields.io/badge/environment-Server-1976d2?style=flat-square">
+    &nbsp; <img alt = "Uses Fabric Loader" src = "https://img.shields.io/badge/modloader-Fabric-1976d2?style=flat-square">
     &nbsp; <img alt = "Latest Release Badge" src = "https://img.shields.io/github/v/release/Brittank88/DeathMessageCoordsAdded?style=flat-square" />
     &nbsp; <img alt = "Latest (Pre-)Release Badge" src = "https://img.shields.io/github/v/release/Brittank88/DeathMessageCoordsAdded?style=flat-square&include_prereleases" />
 </span><br><br>
