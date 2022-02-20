@@ -14,3 +14,5 @@
 A vanilla-esque way of knowing where you, or your pets, were slain.
 
 Appends `at (x, y, z)` to all death messages via a mixin to `DamageTracker`.
+
+Also works in singleplayer, given that an internal server is still operating in that circumstance.
