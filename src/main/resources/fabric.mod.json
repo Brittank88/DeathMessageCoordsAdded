@@ -7,7 +7,7 @@
   "authors": ["Brittank88"],
   "contact": {},
   "license": "MIT",
-  "icon": "assets/dmca/icon.png",
+  "icon": "assets/DMCA/icon.png",
   "environment": "*",
   "entrypoints": { "main": ["com.brittank88.dmca.DMCA"] },
   "mixins": ["DMCA.mixins.json"],
