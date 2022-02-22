@@ -1,5 +1,5 @@
 <h1>
-  <img alt = "DMCA Logo" width="100" align="left" src="https://github.com/Brittank88/DeathMessageCoordsAdded/blob/main/src/main/resources/assets/dmca/icon.png" />
+  <img alt = "DMCA Logo" width="100" align="left" src="https://github.com/Brittank88/DeathMessageCoordsAdded/blob/main/src/main/resources/assets/DMCA/icon.png" />
     Death Message - Coords Added
     <br>
 </h1>
